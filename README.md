@@ -67,6 +67,7 @@ Increase marketing campaigns and inventory levels before peak sales periods, par
 ### 4. Target Younger Customers
 Develop marketing campaigns that appeal to young adult consumers, particularly through digital and social media platforms.
 
+<img width="1252" height="522" alt="Dashboard" src="https://github.com/user-attachments/assets/4892ee0d-48f8-46de-a3c8-8a60dbd78a4f" />
 
 
 Download dataset [here](https://docs.google.com/spreadsheets/d/18w8KQ4Yxrp1eGcZUIE1RnIZ2hv45tFMg/edit?usp=drive_link&ouid=109017425154331224682&rtpof=true&sd=true). This file includes: data cleaning, pivot tables, and visualisation.
